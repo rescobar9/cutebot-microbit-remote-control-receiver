@@ -1,9 +1,9 @@
 radio.onReceivedNumber(function (receivedNumber) {
-    if (0 == 0) {
+    if (receivedNumber == 1) {
         cuteBot.turnleft()
-    } else if (0 == 0) {
+    } else if (receivedNumber == 2) {
         cuteBot.turnleft()
-    } else if (0 == 0) {
+    } else if (receivedNumber == 3) {
         cuteBot.forward()
     }
 })
